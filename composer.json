@@ -1,0 +1,6 @@
+{
+    "name": "drupal/h5p",
+    "description": "Upload interactive HTML5 Packages to your Druapl site.",
+    "minimum-stability": "dev",
+    "require": {}
+}
